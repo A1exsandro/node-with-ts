@@ -8,4 +8,3 @@
 * npm i express cors morgan
 * npm i --save-dev @types/cors
 * npm i --save-dev @types/morgan
-*
